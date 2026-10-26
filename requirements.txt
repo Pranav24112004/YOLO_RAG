@@ -1,0 +1,14 @@
+azure-search-documents
+azure-storage-blob
+azure-ai-formrecognizer
+python-dotenv
+langgraph
+langchain
+langchain_openai
+langchain_core
+azure-cosmos
+fastapi
+uvicorn
+streamlit
+requests
+pymupdf
